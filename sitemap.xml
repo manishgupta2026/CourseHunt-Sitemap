@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-07-08T08:30:27.624Z</lastmod>
+    <lastmod>2025-07-09T08:30:27.227Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -2877,6 +2877,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/mastering-company-valuation-and-compliance-management-20</loc>
     <lastmod>2025-05-06T15:29:36.100Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/microsoft-excel-pivot-tables-with-formulas-functions</loc>
+    <lastmod>2025-07-09T08:26:32.215Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -7885,6 +7891,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/microsoft-excel-pivot-tables-the-pivot-table-masterclass</loc>
+    <lastmod>2025-07-09T08:27:50.811Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/mastering-react-and-nodejs-firebase-authentication-2025</loc>
     <lastmod>2025-06-08T08:51:07.524Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8499,6 +8511,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/comptia-network-n10-008-certification-mock-exam-test</loc>
     <lastmod>2025-06-18T07:25:23.695Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/powerpoint-microsoft-powerpoint-from-basic-to-advanced</loc>
+    <lastmod>2025-07-09T08:29:11.423Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
