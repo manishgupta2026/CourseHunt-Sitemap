@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-07-11T08:30:15.992Z</lastmod>
+    <lastmod>2025-07-12T08:30:25.624Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -135,6 +135,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/unlock-the-secrets-of-polynomials-command-on-algebra-inside</loc>
     <lastmod>2025-05-09T14:20:45.744Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/machine-learning-artificial-intelligence-beginners-course</loc>
+    <lastmod>2025-07-12T08:27:57.047Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -3913,6 +3919,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/google-cloud-generative-ai-leader-full-course-2025</loc>
+    <lastmod>2025-07-11T08:43:06.194Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/the-complete-attraction-masterclass</loc>
     <lastmod>2025-03-21T06:16:09.291Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5827,6 +5839,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/master-the-skills-of-fundamentals-of-engineering-fe-exam</loc>
+    <lastmod>2025-07-12T08:29:16.818Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/transform-your-life-in-5-days-i-challenge-you-to-fail</loc>
     <lastmod>2025-05-11T14:05:35.466Z</lastmod>
     <changefreq>daily</changefreq>
@@ -6542,7 +6560,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/unknown-course</loc>
-    <lastmod>2025-07-11T07:52:50.889Z</lastmod>
+    <lastmod>2025-07-11T08:42:20.429Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
