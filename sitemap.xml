@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-07-14T08:30:13.262Z</lastmod>
+    <lastmod>2025-07-15T08:30:12.013Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -171,6 +171,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/the-complete-tricentis-neoload-bootcamp-2025</loc>
     <lastmod>2025-05-05T03:55:33.183Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/basic-to-advanced-search-engine-optimisation-expert-by-a-ceo</loc>
+    <lastmod>2025-07-14T10:35:40.273Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -422,7 +428,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/design-a-living-room-everyone-loves-in-just-10-simple-steps</loc>
-    <lastmod>2025-07-13T07:58:52.805Z</lastmod>
+    <lastmod>2025-07-14T10:40:06.884Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -573,6 +579,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/mastering-agentic-design-patterns-with-hands-on-projects</loc>
     <lastmod>2025-02-20T10:13:15.652Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/the-ultimate-isc2-certified-in-cybersecurity-cc-course-25</loc>
+    <lastmod>2025-07-14T16:02:34.372Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1112,7 +1124,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/explore-ccsk-cloud-security-certification-essentials-ccsk-v5</loc>
-    <lastmod>2025-07-13T07:54:59.987Z</lastmod>
+    <lastmod>2025-07-14T10:36:36.358Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1611,6 +1623,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/startup-digital-marketing-consultant-tool-kit</loc>
     <lastmod>2025-03-21T06:15:55.134Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/mb-910-microsoft-dynamics-365-crm-practice-tests-2025</loc>
+    <lastmod>2025-07-14T10:28:20.332Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -2635,6 +2653,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/complete-rag-testing-course-with-ragas-deepeval-and-python</loc>
+    <lastmod>2025-07-14T10:34:36.763Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/working-with-project-managers-and-project-sponsors-20</loc>
     <lastmod>2025-03-28T06:45:30.004Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3061,6 +3085,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/mastering-c-from-beginner-to-advanced-programming</loc>
+    <lastmod>2025-07-14T10:23:14.856Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/building-a-neural-network-from-zero</loc>
     <lastmod>2025-03-20T06:34:16.820Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3326,7 +3356,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/aws-certified-cloud-practitioner-clf-c02-question-bank</loc>
-    <lastmod>2025-07-13T07:56:15.178Z</lastmod>
+    <lastmod>2025-07-14T10:37:26.989Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -4286,7 +4316,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/object-detection-image-classification-with-pytorch-ssd</loc>
-    <lastmod>2025-07-13T07:57:36.451Z</lastmod>
+    <lastmod>2025-07-14T10:38:12.859Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -4610,7 +4640,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/strategic-hr-leadership-power-influence-in-hr</loc>
-    <lastmod>2025-07-13T08:00:09.463Z</lastmod>
+    <lastmod>2025-07-14T10:38:56.253Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -4905,6 +4935,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/maitriser-lia-generative-chatgpt-creation-et-automates</loc>
     <lastmod>2025-07-04T07:45:27.114Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/sc-200-certification-practice-tests-2025</loc>
+    <lastmod>2025-07-14T10:25:46.414Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -5613,6 +5649,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/high-probability-forex-gold-strategy-trade-like-a-pro</loc>
     <lastmod>2025-05-29T09:49:50.511Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/call-center-team-leader-quality-assurance-training</loc>
+    <lastmod>2025-07-14T10:21:57.004Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -6788,7 +6830,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/github-foundations-certification-examen-practico-2025</loc>
-    <lastmod>2025-07-13T08:04:00.730Z</lastmod>
+    <lastmod>2025-07-14T10:39:35.229Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -6969,6 +7011,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/microsoft-excel-mastering-data-analysis-with-pivot-table</loc>
     <lastmod>2025-06-27T09:14:27.140Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/live-online-shop-ecommerce-by-asp-net-core-8-razor-pages</loc>
+    <lastmod>2025-07-14T10:27:02.689Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -8083,6 +8131,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/diving-into-implementation-science</loc>
+    <lastmod>2025-07-14T10:30:55.940Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/mastering-your-value-proposition</loc>
     <lastmod>2025-06-15T06:15:05.150Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8461,6 +8515,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/nodejs-interview-guide-100-questions-answers</loc>
+    <lastmod>2025-07-14T10:32:15.722Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/complete-pandas-for-absolute-beginners</loc>
     <lastmod>2025-05-20T03:28:06.832Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8617,6 +8677,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/az-900-microsoft-azure-fundamentals-practice-tests-2025</loc>
+    <lastmod>2025-07-14T10:29:37.413Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/complete-ethical-hacking-masterclass-go-from-zero-to-hero</loc>
     <lastmod>2025-04-25T12:22:17.935Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8767,6 +8833,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/how-to-create-automated-faceless-shorts-and-reels-with-n8n</loc>
+    <lastmod>2025-07-14T10:24:29.627Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/ethically-hack-the-planet</loc>
     <lastmod>2025-05-17T09:41:09.651Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8877,6 +8949,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/web-development-bootcamp-python-django-web-course</loc>
     <lastmod>2025-06-07T08:03:25.578Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/aprende-jquery-ui-sin-dolor</loc>
+    <lastmod>2025-07-14T10:33:27.543Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -9351,6 +9429,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/ios-development-kickstart-craft-your-first-app-with-swiftui</loc>
     <lastmod>2025-05-06T15:41:09.399Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/process-safety-management-engineering-nebosh</loc>
+    <lastmod>2025-07-14T10:20:38.430Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
