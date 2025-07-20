@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-07-19T08:30:26.819Z</lastmod>
+    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -255,6 +255,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/authentic-engagement-through-influencer-partnerships-20</loc>
     <lastmod>2025-04-15T06:37:53.983Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/best-prompt-engineering-practice-tests-interview-questions</loc>
+    <lastmod>2025-07-20T08:04:48.563Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -883,6 +889,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/cursor-ai-for-beginners-ai-coding-crash-course</loc>
+    <lastmod>2025-07-20T08:12:25.769Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/learn-how-to-make-money-with-chatgpt-prompt</loc>
     <lastmod>2025-06-02T12:57:35.362Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1161,6 +1173,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/dart-flutter-the-complete-flutter-development-course</loc>
     <lastmod>2025-05-15T05:21:58.708Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/asq-cqa-certified-quality-auditor-training-course</loc>
+    <lastmod>2025-07-20T08:03:29.932Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1861,6 +1879,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/the-leadership-accelerator</loc>
+    <lastmod>2025-07-20T08:17:18.240Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/cisco-packet-tracer-setup-a-three-tier-switch-network</loc>
     <lastmod>2025-06-30T08:55:33.078Z</lastmod>
     <changefreq>daily</changefreq>
@@ -2539,6 +2563,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/az-305-designing-azure-infrastructure-solutions-exam</loc>
+    <lastmod>2025-07-20T08:00:54.800Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/data-analysis-and-data-visualization-with-microsoft-copilot</loc>
     <lastmod>2025-07-19T08:00:44.748Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3157,6 +3187,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/unleash-certified-associate-in-python-programming-pcap</loc>
+    <lastmod>2025-07-20T08:17:59.848Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/mastering-c-from-beginner-to-advanced-programming</loc>
     <lastmod>2025-07-14T10:23:14.856Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3279,6 +3315,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/generative-ai-for-personal-productivity-get-more-done</loc>
     <lastmod>2025-05-07T07:25:23.470Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/php-codeigniter-4-build-food-ordering-ecommerce-store-2025</loc>
+    <lastmod>2025-07-20T08:08:40.149Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -3577,6 +3619,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/substation-technician-fundamentals</loc>
+    <lastmod>2025-07-20T08:14:35.564Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/perplexity-ai-for-marketing-business-automation</loc>
     <lastmod>2025-06-03T18:15:12.242Z</lastmod>
     <changefreq>daily</changefreq>
@@ -3795,6 +3843,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/complete-python-course-for-it-administrators</loc>
     <lastmod>2025-05-17T08:04:30.815Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/the-complete-beginners-guide-to-generative-ai</loc>
+    <lastmod>2025-07-20T08:13:32.741Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -5233,6 +5287,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/lohnabrechnung-mit-ki</loc>
+    <lastmod>2025-07-20T08:15:34.744Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/email-security</loc>
     <lastmod>2025-05-08T10:42:01.586Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5599,6 +5659,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/react-all-you-need-to-know-with-practical-project</loc>
+    <lastmod>2025-07-20T07:59:36.342Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/investing-options-from-basics-to-mastery</loc>
     <lastmod>2025-05-07T07:26:10.656Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5643,6 +5709,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/jquery-complete-jquery-course-from-beginner-to-advanced</loc>
     <lastmod>2025-05-05T09:06:05.268Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/system-design-masterclass</loc>
+    <lastmod>2025-07-20T08:11:12.497Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -5810,7 +5882,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/its-303-python-certification-exam-it-specialist-preparation</loc>
-    <lastmod>2025-05-08T16:11:30.869Z</lastmod>
+    <lastmod>2025-07-20T08:07:22.748Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -6151,6 +6223,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/day-trading-master-crash-course-make-money-easily-hindi</loc>
+    <lastmod>2025-07-20T08:02:10.776Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/the-ultimate-gamma-guide-master-ai-presentation-creation</loc>
     <lastmod>2025-05-15T13:41:04.934Z</lastmod>
     <changefreq>daily</changefreq>
@@ -6231,6 +6309,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/crypto-airdrop-farming-guide-strategy-for-beginners</loc>
     <lastmod>2025-04-27T02:08:00.428Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/python-mastery-full-course-30-hands-on-mini-projects</loc>
+    <lastmod>2025-07-20T07:58:18.455Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -8125,6 +8209,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/test-automation-for-complete-beginners</loc>
+    <lastmod>2025-07-20T08:06:04.301Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/microsoft-excel-excel-course-for-beginners</loc>
     <lastmod>2025-04-24T09:44:20.985Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8133,6 +8223,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/advanced-power-bi-expert-data-analysis-and-visualization</loc>
     <lastmod>2025-05-24T13:14:03.635Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/home-automation-using-raspberry-pi-and-windows-10-iot</loc>
+    <lastmod>2025-07-20T08:18:40.082Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -9679,6 +9775,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/financial-accounting-bookkeeping-beginners-to-advanced</loc>
+    <lastmod>2025-07-20T08:19:12.128Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/complete-nodejs-course-with-express-socket-io-and-mongodb</loc>
     <lastmod>2025-07-19T06:59:50.741Z</lastmod>
     <changefreq>daily</changefreq>
@@ -9931,6 +10033,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/medical-terminology-for-medical-coding-billing-healthcare</loc>
+    <lastmod>2025-07-20T08:09:58.191Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/master-business-english-for-successful-networking-skills</loc>
     <lastmod>2025-06-03T18:14:28.747Z</lastmod>
     <changefreq>daily</changefreq>
@@ -9999,6 +10107,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/canva-magic-write-idea-to-text-to-ppt-in-minutes-using-ai</loc>
     <lastmod>2025-07-19T07:48:38.110Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/python-foundations-build-your-programming-base</loc>
+    <lastmod>2025-07-20T08:16:28.759Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
