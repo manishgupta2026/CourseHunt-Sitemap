@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-07-20T08:30:08.162Z</lastmod>
+    <lastmod>2025-07-21T08:30:32.937Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -111,6 +111,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/uso-del-tiempo-para-reducir-el-estres</loc>
     <lastmod>2025-06-27T09:18:07.065Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/accounting-financial-statement-analysis-practical-example</loc>
+    <lastmod>2025-07-21T08:09:33.275Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -327,6 +333,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/comprehensive-game-development-practice-test-skill-mastery</loc>
     <lastmod>2025-05-13T13:24:49.851Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/ki-tools-effektiv-nutzen-chatgpt-masterclass</loc>
+    <lastmod>2025-07-21T08:03:06.734Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -639,6 +651,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/vibe-coding-for-noncoders-build-aipowered-web-apps</loc>
     <lastmod>2025-07-13T08:12:16.005Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/gcp-cdl-google-cloud-digital-leader-practice-test-exam</loc>
+    <lastmod>2025-07-21T08:19:56.677Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1339,6 +1357,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/bank-reconciliation-from-fundamentals-to-advanced-technique</loc>
+    <lastmod>2025-07-21T08:08:18.023Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/mastering-semantic-kernel-by-creating-projects</loc>
     <lastmod>2025-06-19T10:01:06.930Z</lastmod>
     <changefreq>daily</changefreq>
@@ -1455,6 +1479,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/certified-kubernetes-application-developer-ckad-exam-2025</loc>
     <lastmod>2025-05-13T13:24:12.450Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/revenue-recognition-under-ifrs-15-asc-606</loc>
+    <lastmod>2025-07-21T08:18:09.728Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -3289,6 +3319,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/new-salesforce-sales-cloud-consultant-practice-exam-2025</loc>
+    <lastmod>2025-07-21T08:13:26.114Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/entrepreneurship-fundamentals-for-beginners</loc>
     <lastmod>2025-05-19T12:42:45.184Z</lastmod>
     <changefreq>daily</changefreq>
@@ -4333,6 +4369,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/google-ai-studio-bootcamp-build-apps-media-master-gen-ai</loc>
+    <lastmod>2025-07-21T08:10:50.713Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/getting-started-with-generative-ai-unboxing-the-future</loc>
     <lastmod>2025-07-02T07:57:25.290Z</lastmod>
     <changefreq>daily</changefreq>
@@ -4353,6 +4395,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/master-product-development-from-idea-to-market-success</loc>
     <lastmod>2025-05-31T12:15:48.914Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/meta-ads-facebook-instagram-practice-tests-and-interview</loc>
+    <lastmod>2025-07-21T08:01:50.028Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -4551,6 +4599,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/upwork-beginner-course-win-freelance-world</loc>
     <lastmod>2025-05-14T10:32:42.541Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/new-salesforce-certified-ai-associate-practice-exam-2025</loc>
+    <lastmod>2025-07-21T08:19:04.658Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -5071,6 +5125,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/vmware-data-center-virtualization-1v0-2120-practice-test</loc>
+    <lastmod>2025-07-21T08:15:56.820Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/build-8-python-web-and-application-python-from-zero-to-hero</loc>
     <lastmod>2025-05-29T09:47:42.168Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5115,6 +5175,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/java-training-complete-course-for-java-beginners-all-in-one</loc>
     <lastmod>2025-05-17T15:29:07.540Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/aws-certified-solutions-architect-associate-saa-c03-exam</loc>
+    <lastmod>2025-07-21T08:22:01.715Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -5835,6 +5901,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/hands-on-react-build-advanced-react-js-frontend-with-expert</loc>
     <lastmod>2025-03-19T04:59:41.225Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/terraform-on-microsoft-azure-cloud-beginners-guide-to-iac</loc>
+    <lastmod>2025-07-21T08:14:41.797Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -6891,6 +6963,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/complete-video-editing-bootcamp-beginner-to-advanced</loc>
     <lastmod>2025-06-02T08:12:19.818Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/urban-tree-planting</loc>
+    <lastmod>2025-07-21T08:17:06.687Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -8491,6 +8569,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/az-140-configuring-windows-virtual-desktop-on-azure-exam</loc>
+    <lastmod>2025-07-21T08:04:23.590Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/audhd-mastery-thrive-with-your-autism-adhd-superpowers</loc>
     <lastmod>2025-06-20T07:15:09.071Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8647,6 +8731,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/10x-faster-multi-storey-building-planning-autocad-yqarch</loc>
+    <lastmod>2025-07-21T08:07:01.131Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/python-for-absolute-beginners-learn-programming-from-scratch</loc>
     <lastmod>2025-05-04T07:38:05.257Z</lastmod>
     <changefreq>daily</changefreq>
@@ -8763,6 +8853,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/ollama-beginner-to-pro-using-no-code-python-codes</loc>
     <lastmod>2025-07-06T08:04:15.404Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/associate-vmware-network-virtualization-exam-1v0-4120</loc>
+    <lastmod>2025-07-21T08:20:43.387Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -9391,6 +9487,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/associate-vmware-cloud-management-and-automation-1v0-3121</loc>
+    <lastmod>2025-07-21T08:21:24.208Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/2025-practice-exams-az-900-microsoft-azure-fundamentals</loc>
     <lastmod>2025-06-23T07:49:13.770Z</lastmod>
     <changefreq>daily</changefreq>
@@ -9643,6 +9745,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/new-salesforce-certified-platform-app-builder-exam-2025</loc>
+    <lastmod>2025-07-21T08:22:33.538Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/4-practice-tests-for-any-python-certification</loc>
     <lastmod>2025-06-24T07:53:35.677Z</lastmod>
     <changefreq>daily</changefreq>
@@ -9769,6 +9877,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/5-days-5-flutter-app-projects-from-scratch-2025</loc>
+    <lastmod>2025-07-21T08:12:09.533Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/how-to-bring-and-practice-forest-bathing-at-home</loc>
     <lastmod>2025-04-11T06:45:29.996Z</lastmod>
     <changefreq>daily</changefreq>
@@ -9801,6 +9915,12 @@
   <url>
     <loc>https://coursehunt.tech/course-detail/llm-fine-tuning-mastery-basic-to-advanced-cloud-deploy</loc>
     <lastmod>2025-07-02T07:53:46.425Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://coursehunt.tech/course-detail/selenium-webdriver-with-java-masterclass</loc>
+    <lastmod>2025-07-21T08:05:41.829Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
