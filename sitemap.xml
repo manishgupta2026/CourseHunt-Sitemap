@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://coursehunt.tech/</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/blog</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/about</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/contact</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/terms</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://coursehunt.tech/privacy</loc>
-    <lastmod>2025-09-14T08:30:24.523Z</lastmod>
+    <lastmod>2025-09-15T08:30:17.250Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -3865,6 +3865,12 @@
     <priority>0.85</priority>
   </url>
   <url>
+    <loc>https://coursehunt.tech/course-detail/microsoft-power-bi-complete-beginner-to-advance-guide</loc>
+    <lastmod>2025-09-14T09:23:11.905Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://coursehunt.tech/course-detail/the-complete-guide-to-effective-communication-skills</loc>
     <lastmod>2025-02-20T10:13:17.335Z</lastmod>
     <changefreq>daily</changefreq>
@@ -5720,7 +5726,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/microsoft-excel-beginner-to-advance-with-example</loc>
-    <lastmod>2025-09-04T06:38:59.260Z</lastmod>
+    <lastmod>2025-09-14T09:21:21.355Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -10424,7 +10430,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/mastering-chatgpt-ai-and-powerpoint-presentation</loc>
-    <lastmod>2025-09-04T06:39:33.952Z</lastmod>
+    <lastmod>2025-09-14T09:22:01.981Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -12308,7 +12314,7 @@
   </url>
   <url>
     <loc>https://coursehunt.tech/course-detail/master-camtasia-complete-video-editing-for-beginners-to-pro</loc>
-    <lastmod>2025-09-04T06:40:01.312Z</lastmod>
+    <lastmod>2025-09-14T09:22:39.394Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
